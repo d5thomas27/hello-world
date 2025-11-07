@@ -1,1 +1,1 @@
-Physics and Machine Learning are Fun!
+Physics and machine learning are fun!Fun!
